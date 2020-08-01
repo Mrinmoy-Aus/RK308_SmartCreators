@@ -3,7 +3,7 @@
 ### Smart India Hackathon 2020 Grand Finale
 
 ### Team Name
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators.png">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
 SmartCreators
 
 ### Problem Statement
