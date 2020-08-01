@@ -2,6 +2,7 @@
 REAL-TIME BASED FACIAL RECOGNITION SYSTEMS
 
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png">
+
 ### Smart India Hackathon 2k20
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
