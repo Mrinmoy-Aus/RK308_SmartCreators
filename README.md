@@ -1,4 +1,4 @@
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png">(https://www.sih.gov.in/)
 
 ### Smart India Hackathon 2020 Grand Finale
 
