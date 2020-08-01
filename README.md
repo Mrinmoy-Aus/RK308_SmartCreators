@@ -66,6 +66,6 @@
 
 ### How it works? See:)
 
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SIHgifs2020.mp4">
 
 
