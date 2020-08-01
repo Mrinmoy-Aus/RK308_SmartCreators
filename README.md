@@ -45,6 +45,7 @@
 
 ### 2. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.gif">
