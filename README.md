@@ -2,15 +2,13 @@
 
 ### Smart India Hackathon 2020 Grand Finale
 
-### Team Name
+### Team Name: SmartCreators
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
-SmartCreators
 
 ### Problem Statement
 REAL-TIME BASED FACIAL RECOGNITION SYSTEMS
 
-### Problem Statement Number
-RK-308
+### Problem Statement Number: RK-308
 
 ### Organization
 BUREAU OF POLICE RESEARCH & DEVELOPMENT
