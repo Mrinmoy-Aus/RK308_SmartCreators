@@ -66,3 +66,6 @@ Password: iiit@20<br>*
 ### How it works? See:)
 
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
+
+
+<p><a href="https://www.sih.gov.in/"><span><img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png"></span></a>SMART INDIA HACKATHON</p>
