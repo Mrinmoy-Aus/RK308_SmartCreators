@@ -46,7 +46,6 @@
 ### 2. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
 
 ### 3. Video Surveillance:
 > In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
@@ -54,6 +53,7 @@
 
 ### 4. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebook%20Data.jpeg">
 
 ### 5.	Crime Prediction:
