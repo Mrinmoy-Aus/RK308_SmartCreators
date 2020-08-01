@@ -2,6 +2,10 @@
 
 ### Smart India Hackathon 2020 Grand Finale
 
+### Team Name
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators.png">
+SmartCreators
+
 ### Problem Statement
 REAL-TIME BASED FACIAL RECOGNITION SYSTEMS
 
