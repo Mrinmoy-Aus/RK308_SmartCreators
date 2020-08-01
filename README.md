@@ -31,44 +31,35 @@
 - Matplotlib(`pip install matplotlib`)
 - Beautifulsoup4(`pip install beautifulsoup4`)
 
-### What steps you have to follow??
-- Download my Repository 
-- Create a `TrainingImage` folder in a project.
-- Open a `AMS_Run.py` and change the all paths with your system path
-- Run `AMS_Run.py`.
-
-### Project Structure
-
-- After run you need to give your face data to system so enter your ID and name in box than click on `Take Images` button.
-- It will collect 200 images of your faces, it save a images in `TrainingImage` folder
-- After that we need to train a model(for train a model click on `Train Image` button.
-- It will take 5-10 minutes for training(for 10 person data).
-- After training click on `Automatic Attendance` ,it can fill attendace by your face using our trained model (model will save in `TrainingImageLabel` )
-- it will create `.csv` file of attendance according to time & subject.
-- You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
-- `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
+### To run the model:
+> python home.py
 
 ### Screenshots
 
 ### Basic UI
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.PNG">
 
-### Check register students
-*Username: IIITK<br>
-Password: iiit@20<br>*
+### 1. Register Criminal
+> In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
 
-### Manually attendance filling UI
+### 2. Detect Criminal:
+> In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
 
-### When it's Recognise me
+### 3. Video Surveillance:
+> In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/4.PNG">
 
-### When it's fill a attendace
+### 4. Facebook Matcher:
+> In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/5.PNG">
 
+### 5.	Crime Prediction:
+> In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
 
-
+### 6. Violence Detection: 
+> In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 ### How it works? See:)
 
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
