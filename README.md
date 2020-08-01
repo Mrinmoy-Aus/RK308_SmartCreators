@@ -19,12 +19,17 @@
 <a href="https://pralaysarkar.tk/"><img src="https://pralaysarkar.tk/assets/img/me.jpg" height="50px" width="50px" alt=""/></a>
 
 ### Code Requirements
-- Opencv(`pip install opencv-contrib-python`)
-- If you are using python3.x and opencv==4.1.0 then use following commands First of all
-(`python -m pip install --user opencv-contrib-python`)
-- Tkinter(Available in python)
-- PIL (`pip install Pillow`)
+- Tensorflow(`pip install tensorflow`)
+- Face Recognition(`pip install face-recognition`)
+- Selenium(`pip install selenium`)
+- Numpy(`pip install numpy`)
+- Tkinter(`pip install tkintertable`)
+- Seaborn(`pip install seaborn`)
+- Sklearn(`pip install sklearn`)
+- Plotly(`pip install plotly`)
 - Pandas(`pip install pandas`)
+- Matplotlib(`pip install matplotlib`)
+- Beautifulsoup4(`pip install beautifulsoup4`)
 
 ### What steps you have to follow??
 - Download my Repository 
