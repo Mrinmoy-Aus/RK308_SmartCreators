@@ -4,8 +4,7 @@
 
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
 
-## Team Name: 
-**SmartCreators**
+## Team Name: *SmartCreators*
 
 ### Problem Statement:
 **REAL-TIME BASED FACIAL RECOGNITION SYSTEMS**
