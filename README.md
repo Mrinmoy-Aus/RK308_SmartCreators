@@ -37,7 +37,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/1.PNG">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/basicUI.jpeg">
 
 ### 1. Register Criminal
 > In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
