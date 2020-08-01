@@ -41,25 +41,29 @@
 
 ### 1. Register Criminal
 > In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/2.PNG">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/registerCriminal.jpeg">
 
 ### 2. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/3.PNG">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
 
 ### 3. Video Surveillance:
 > In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/4.PNG">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.jpeg">
 
 ### 4. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
-<img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/5.PNG">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebook%20Data.jpeg">
 
 ### 5.	Crime Prediction:
 > In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/crimeDetection.jpeg">
 
 ### 6. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
+
 ### How it works? See:)
 
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
