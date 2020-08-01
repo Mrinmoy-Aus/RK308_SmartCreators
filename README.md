@@ -3,17 +3,17 @@
 # Smart India Hackathon 2020 Grand Finale
 
 ## Team Name: 
-###### SmartCreators
+**SmartCreators**
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
 
 ### Problem Statement:
-###### REAL-TIME BASED FACIAL RECOGNITION SYSTEMS
+**REAL-TIME BASED FACIAL RECOGNITION SYSTEMS**
 
 ### Problem Statement Number:
-###### RK-308
+**RK-308**
 
 ### Organization:
-###### BUREAU OF POLICE RESEARCH & DEVELOPMENT
+**BUREAU OF POLICE RESEARCH & DEVELOPMENT**
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
