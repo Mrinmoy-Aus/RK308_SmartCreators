@@ -1,6 +1,6 @@
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png">
 
-### Smart India Hackathon 2020 Grand Finale
+# Smart India Hackathon 2020 Grand Finale
 
 ### Team Name: SmartCreators
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
