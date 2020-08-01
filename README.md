@@ -4,13 +4,13 @@
 
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
 
-## Team Name: *SmartCreators*
+## TEAM NAME: *SmartCreators*
 
-### Problem Statement: *REAL-TIME BASED FACIAL RECOGNITION SYSTEMS*
+### PROBLEM STATEMENT: *Real-Time Based Facial Recognition Systems*
 
-### Problem Statement Number: *RK-308*
+### PROBLEM STATEMENT NUMBER: *RK-308*
 
-### Organization: *BUREAU OF POLICE RESEARCH & DEVELOPMENT*
+### Organization: *Bureau of Police Research & Development*
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
