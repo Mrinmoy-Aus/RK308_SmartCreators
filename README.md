@@ -6,7 +6,7 @@
 
 ## TEAM NAME: *SmartCreators*
 
-### PROBLEM STATEMENT: *Real-Time Criminal Identification Systems*
+### PROBLEM STATEMENT: *Real-Time Criminal Identification System*
 
 ### PROBLEM STATEMENT NUMBER: *RK-308*
 
