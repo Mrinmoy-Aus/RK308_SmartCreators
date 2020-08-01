@@ -1,4 +1,4 @@
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png">
+<a href="https://www.sih.gov.in/" img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png"></a>
 
 ### Smart India Hackathon 2020 Grand Finale
 
@@ -68,4 +68,3 @@ Password: iiit@20<br>*
 <img src="https://github.com/PralaySarkar/Automatic-Attendance-Management-System/blob/master/AAMSgif.gif">
 
 
-<p><a href="https://www.sih.gov.in/"><span><img src="https://github.com/argho28/RK308_SmartCreators/blob/master/sih2020.png"></span></a>SMART INDIA HACKATHON</p>
