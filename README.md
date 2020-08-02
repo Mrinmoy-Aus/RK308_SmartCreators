@@ -65,7 +65,7 @@
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebookMatch.gif">
 
-### 5. Twitter Matcher: 
+### 5. Twitter Matcher:
 > Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
 
 ### How it works? See:)
@@ -78,4 +78,4 @@
 ### 7. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
-
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
