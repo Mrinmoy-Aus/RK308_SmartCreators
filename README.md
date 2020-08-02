@@ -54,6 +54,7 @@
 ### 3. Video Surveillance:
 > In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.jpeg">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.gif">
@@ -78,4 +79,4 @@
 ### 7. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
+
