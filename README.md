@@ -61,16 +61,17 @@
 ### 4. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
-### 6. Twitter Matcher:
-> Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebookMatch.gif">
+### 5. Twitter Matcher:
+> Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
 
-### 5.	Crime Prediction:
+
+### 6.	Crime Prediction:
 > In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/crimeDetection.jpeg">
 
-### 6. Violence Detection: 
+### 7. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
 
