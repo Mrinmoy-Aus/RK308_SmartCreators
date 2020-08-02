@@ -18,6 +18,9 @@
 ### Contributors
 <a href="https://pralaysarkar.tk/"><img src="https://pralaysarkar.tk/assets/img/me.jpg" height="50px" width="50px" alt=""/></a>
 <a href="https://github.com/argho28"><img src="https://avatars3.githubusercontent.com/u/54744863?s=400&v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://github.com/sohambiswas4"><img src="https://avatars1.githubusercontent.com/u/42530475?s=400&u=b178e931483d9cf1052ba00f4bad4e988c968ade&v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://github.com/AbhimanyuChatterje"><img src="https://avatars2.githubusercontent.com/u/69033608?s=400&u=864c7124c65c3fde6fe74a6b3ec89f0a0e763bd2&v=4" height="50px" width="50px" alt=""/></a>
+
 
 ### Code Requirements
 - Tensorflow(`pip install tensorflow`)
