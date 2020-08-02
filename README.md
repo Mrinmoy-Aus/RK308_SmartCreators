@@ -85,3 +85,6 @@
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
 
+
+### 8. Remote Camera - Different Location - Different Network:
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
