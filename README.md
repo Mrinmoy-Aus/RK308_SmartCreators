@@ -46,6 +46,7 @@
 ### 2. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.jpeg">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.gif">
@@ -71,4 +72,4 @@
 ### 6. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.jpeg">
+
