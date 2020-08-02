@@ -88,3 +88,6 @@
 
 ### 8. Remote Camera - Different Location - Different Network:
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
+
+### How it works? See:)
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/remoteCamera.gif">
