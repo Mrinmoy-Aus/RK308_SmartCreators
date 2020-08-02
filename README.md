@@ -48,7 +48,13 @@
 > In this module we have to select at least one image and fill up the details provided in the form then the details will be submitted on an online firebase server.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/registerCriminal.jpeg">
 
-### 2. Detect Criminal:
+### 2. Remote Camera - Different Location - Different Network:
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
+
+### How it works? See:)
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/remoteCamera.gif">
+
+### 3. Detect Criminal:
 > In this module we use deep learning technique from an open source library face_recognition . Our module can take angular images and images from different intensities. This module after verifying the image extracts the person’s details from the database.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.jpeg">
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.jpeg">
@@ -56,7 +62,7 @@
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal.gif">
 
-### 3. Video Surveillance:
+### 4. Video Surveillance:
 > In this module we take video as input and convert it into frames and then detect the criminal in the frame and then extract the details of the criminal from the frame. This module is quite fast and efficient in predicting the images.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.jpeg">
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/faceMask.gif">
@@ -64,30 +70,23 @@
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/videoSurveilance.gif">
 
-### 4. Facebook Matcher:
+### 5. Facebook Matcher:
 > In this module we take the picture of the criminal and then find the criminal in facebook by using open source platform selenium and then extract the information of the criminal including the facebook ID of the criminal. This module is quite efficient and fast.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/detectCriminal2.jpeg">
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/facebookMatch.gif">
 
-### 5. Twitter Matcher:
+### 6. Twitter Matcher:
 > Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
 
 ### How it works? See:)
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/twitterMatch.gif">
 
-### 6.	Crime Prediction:
+### 7.	Crime Prediction:
 > In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/crimeDetection.jpeg">
 
-### 7. Violence Detection: 
+### 8. Violence Detection: 
 > In this module we take a video as input and then analyse the video and find out the frame where we have a gun shooting and crop the face of the criminal in the picture.
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/violenceDetection.jpeg">
-
-
-### 8. Remote Camera - Different Location - Different Network:
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/live%20camera%20location.jpg">
-
-### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/remoteCamera.gif">
