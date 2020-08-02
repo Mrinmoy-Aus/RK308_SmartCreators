@@ -75,7 +75,7 @@
 > Here also we take picture of the criminal and then find the criminal in twitter by selinium and scrap the information of the criminal from her/his profile.
 
 ### How it works? See:)
-<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/TwitterMatch.jpg">
+<img src="https://github.com/argho28/RK308_SmartCreators/blob/master/twitterMatch.gif">
 
 ### 6.	Crime Prediction:
 > In this module we use a linear regression machine learning algorithm to predict crime in near future dates. This module plots analytics to depict major crimes, district crime, 15 top crime, resolution of crime, each day crime, district vs crime category, each month crime. Our module plots the crime description, weapon used in a map.
