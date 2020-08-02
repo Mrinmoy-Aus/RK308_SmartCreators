@@ -1,0 +1,1373 @@
+Facebook
+Email or phone Password
+Forgotten account?
+People named Pralay Sarkar
+Find your friends on Facebook
+Log in or sign up for Facebook to connect with friends, family and people you know.
+Log In
+or
+Sign Up
+Pralay Sarkar
+See Photos
+Pralay Sarkar
+See Photos
+Teacher at Balurghat co-ed College, Department of Sanskrit
+Pralay Sarkar
+See Photos
+Grand Finale Participants at Smart India Hackathon 2020
+Pralay Sarkar
+See Photos
+Tura Government College
+Pralay Sarkar
+See Photos
+Tax Consultant at Business
+Pralay Sarkar
+See Photos
+Works at Elite Polytechnic Institute- Mogra
+Pralay Sarkar
+See Photos
+Estudante at Kalyani University Experimental High School
+Pralay Sarkar (Msdian)
+See Photos
+Admin at MS DHONI OUR WORLD
+Pralay Sarkar
+See Photos
+Works at Micro Finance
+Pralay Sarkar
+See Photos
+Studying at Studying
+Pralay Sarkar
+See Photos
+Front office at ITC- Fortune Select Grand - Chennai
+Pralay Sarkar (Rocky)
+See Photos
+New Alipoor College
+Pralay Chandra Sarkar
+See Photos
+Self-Employed
+Pralay Sarkar
+See PhotosPralay Sarkar
+#include< stdio.h >
+int main()
+{
+printf("Computer Science & Engineering at Indian Institute of Information Technology Kalyani");
+return 0;
+}
+Home
+About
+SIH 2020
+Resume
+Contact
+
+
+
+
+
+
+
+Designed by
+Pralay SarkarSIGN IN
+GET MY OWN PROFILE
+Cited by
+VIEW ALL
+All Since 2015
+Citations 403 250
+h-index 11 8
+i10-index 12 8
+0
+60
+30
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+FOLLOW
+Pralay Sarkar
+Clinical Assistant Professor, Baylor College of Medicine, Houston, Texas
+Verified email at bcm.edu
+Critical Care Ultrasonography & EchocardiographyInterventional PulmonologyPulmonary Arterial Hypertension.
+TITLE
+CITED BY
+YEAR
+Diagnosis and management bronchopleural fistula
+P Sarkar, T Chandak, R Shah, A Talwar
+The Indian journal of chest diseases & allied sciences 52 (2), 97
+65 2010
+Critical care aspects of malaria
+PK Sarkar, G Ahluwalia, VK Vijayan, A Talwar
+Journal of Intensive Care Medicine 25 (2), 93-103
+58 2010
+Finding an alternative diagnosis does not justify increased use of CT-pulmonary angiography
+S Chandra, PK Sarkar, D Chandra, NE Ginsberg, RI Cohen
+BMC pulmonary medicine 13 (1), 9
+44 2013
+Pulmonary manifestations of primary Sjogren's syndrome
+PK Sarkar, N Patel, RA Furie, A Talwar
+The Indian journal of chest diseases & allied sciences 51 (2), 93
+33 2009
+Innate transcriptional effects by adjuvants on the magnitude, quality, and durability of HIV envelope responses in NHPs
+JR Francica, DE Zak, C Linde, E Siena, C Johnson, M Juraska, NL Yates, ...
+Blood advances 1 (25), 2329-2342
+32 2017
+Predisposing factors to premature coronary artery disease in young (age≤ 45 years) smokers: a single center retrospective case control study from India
+A Aggarwal, S Aggarwal, PG Sarkar, V Sharma
+Journal of cardiovascular and thoracic research 6 (1), 15
+29 2014
+Carbamazepine poisoning: treatment with haemodialysis
+M Chetty, P Sarkar, A Aggarwal, V Sakhuja
+Nephrology Dialysis Transplantation 18 (1), 220-221
+28 2003
+Performance of standard severity scoring systems for outcome prediction in patients admitted to a respiratory intensive care unit in North India
+AN Aggarwal, P Sarkar, D Gupta, SK Jindal
+Respirology 11 (2), 196-204
+27 2006
+External cephalic version and reducing the incidence of breech presentation
+LWM Impey, GJ Hofmeyr
+Green Top Guidelines 20a, RCOG Press, London, UK
+25
+*
+2006
+Alterations in gallbladder emptying and bile retention in the absence of changes in bile lithogenicity in postmenopausal women on hormone replacement therapy
+RK Dhiman, PK Sarkar, A Sharma, K Vasishta, KK Kohli, S Gupta, S Suri, ...
+Digestive diseases and sciences 49 (7-8), 1335-1341
+21 2004
+Stabilizing exposure of conserved epitopes by structure guided insertion of disulfide bond in HIV-1 envelope glycoprotein
+A Kassa, AK Dey, P Sarkar, C Labranche, EP Go, DF Clark, Y Sun, ...
+PloS one 8 (10), e76139
+15 2013
+The role of computed tomography bronchography in the management of bronchopleural fistulas
+P Sarkar, N Patel, J Chusid, R Shah, A Talwar
+Journal of thoracic imaging 25 (1), W10-W13
+11 2010
+Pulmonary arterial hypertension in human immunodeficiency virus infection
+A Talwar, P Sarkar, MJ Rosen
+Postgraduate Medicine 121 (5), 56-67
+9 2009
+Correlation of a scintigraphic pulmonary perfusion index with hemodynamic parameters in patients with pulmonary arterial hypertension
+A Talwar, P Sarkar, N Patel, R Shah, B Babchyck, CJ Palestro
+Journal of thoracic imaging 25 (4), 320-325
+3 2010
+Bronchiolitis obliterans syndrome is associated with increased p‐glycoprotein expression and loss of glucocorticoid receptor from steroid‐resistant proinflammatory CD8+ T cells
+G Hodge, S Hodge, PT Nguyen, A Yeo, P Sarkar, A Badiei, ...
+Clinical & Experimental Immunology 192 (2), 242-250
+1 2018
+A 47-Year-Old Man With Dyspnea and Hypotension
+PK Sarkar, SJ Koenig, PH Mayo
+Chest 143 (4), e1-e3
+1 2013
+Impact of verification bias on pulmonary hypertension using echocardiography and right heart catheterization
+N Patel, P Sarkar, K Omonuwa, B Babchyck, R Shah, A Talwar
+Chest 136 (4), 59S
+1 2009
+Prevalence of obstructive sleep apnoea and insomnia in patients with post stroke fatigue
+P Sarkar, CL Chai-Coetzer, D Stevens
+JOURNAL OF SLEEP RESEARCH 27
+2018
+Innate transcriptional effects by adjuvants on the magnitude, quality, and durability of HIV envelope responses in NHPs (vol 1, pg 2329, 2017)
+JR Francica, DE Zak, C Linde, E Siena, C Johnson, M Juraska, NL Yates, ...
+BLOOD ADVANCES 2 (5), 516-516
+2018
+BRONCHIOLITIS OBLITERANS SYNDROME IS ASSOCIATED WITH INCREASED P-GLYCOPROTEIN EXPRESSION AND LOSS OF GLUCOCORTICOID RECEPTOR FROM STEROID RESISTANT PRO-INFLAMMATORY CD8+ T CELLS
+G Hodge, S Hodge, P Nguyen, A Yeo, P Sarkar, A Badiei, ...
+RESPIROLOGY 22, 16-16
+2017
+Articles 1–20SHOW MORE
+HelpPrivacyTermsEnglish
+|Epaper|GadgetsNow
+SIGN IN
+BriefsTOIPlus#MaskIndia#MonsterShotVideos
+City
+India
+World
+Business
+Tech
+CricketSports
+Entertainment
+TV
+Web Series
+All Sections
++
+
+News
+Pralay Sarkar
+ALL
+ARTICLES
+SPEED NEWS
+BLOGS
+CREST
+GADGETS NOW
+Latest
+Most Read
+Most Commented
+Most Shared
+ARTICLE
+Murshidabad a key link in heroin racket
+DEC 13, 2001
+MURSHIDABAD: Indo-Bangladesh border areas at Lalgola in the Murshidabad district have turned into a trading centre for heroin routed to the North-East.
+Find a Reporter
+Select a Reporter
+A Subramani
+
+Abantika Ghosh
+
+Abhinav Garg
+
+Abhinav Malhotra
+
+Abhinav Sharma
+
+Abhishek Choudhari
+
+Abhishek Ganguly
+
+Aby Jose
+
+Aditi Gyanesh
+
+Aditya Dev
+
+Aditya Dev
+
+Ahmed Ali
+
+Aileen Carniero
+
+Ajanta Chakraborty
+
+Ajay Kanth
+
+Ajay Parmar
+
+Ajay Singh
+
+Ajay Sura
+
+Akash Wadhwa
+
+Akshaya Mukul
+
+Alkesh Sharma
+
+Alok K N Mishra
+
+Amaninder Pal Sharma
+
+Ambika Pandit
+
+Aminul Mohammad Islam
+
+Amit Choudhary
+
+Amit Sampat
+
+Amrita Mulchandani
+
+Anand Bodh
+
+Ananya Banerjee
+
+Anil Kumar M
+
+Anisha Francis
+
+Anjali Chandra
+
+Anjali Muthanna
+
+Anjana Senthil
+
+Anjaya Anparthi
+
+Ankur Batra
+
+Ankur Sirothia
+
+Anshul Dhamija
+
+Anto T Ouseph
+
+Anuja Jaiswal
+
+Anusha Mary Vincent
+
+Anvit Srivastava
+
+Aparajita Gupta
+
+Aparajita Ray
+
+Aparna Nair
+
+Aparna Phadke
+
+Aparna Ramalingam
+
+Arani Basu
+
+Archiman Bhaduri
+
+Arun Dev
+
+Arun Janardhanan
+
+Arun Ram
+
+Arunav Sinha
+
+Arup Chatterjee
+
+Ashish Gaur
+
+Ashish Mehta
+
+Ashish Roy
+
+Ashish Tripathi
+
+Ashok Chatterjee
+
+Ashok Pradhan
+
+Asseem Shaikh
+
+Aswin J Kumar
+
+Ayaskant Das
+
+Ayesha Arvind
+
+B Krishna Prasad
+
+B S Anil Kumar
+
+B V Shiva Shankar
+
+Bagish K Jha
+
+Bappa Majumdar
+
+Basavaraj F Kattimani
+
+Bhanu Pratap Singh
+
+Bharat Yagnik
+
+Bhavika Jain
+
+Bhawna Gandhi
+
+Bijoy Bharathan
+
+Biju Babu Cyriac
+
+Binay Singh
+
+Bindiya Chari
+
+Biswajyoti Brahma
+
+Bivabasu Kumar
+
+Bosco Dominique
+
+Bushra Baseerat
+
+BVS Prakash
+
+Caesar Mandal
+
+Ch Sushil Rao
+
+Chinmayi Shalya
+
+Chittaranjan Tembhekar
+
+Clara Lewis
+
+D Madhavan
+
+Daniel George
+
+Debabrata Mohapatra
+
+Debarati S Sen
+
+Debasis Konar
+
+Debayan Mukherjee
+
+Deepak Yadav
+
+Deepali Dhingra
+
+Deepika Sahu
+
+Deeptiman Tiwary
+
+Devadyuti Das
+
+Dhananjay Mahapatra
+
+Digbijay Mishra
+
+Diksha Kamra
+
+Dileep Athavale
+
+Dipak K Dash
+
+Dipannita Das
+
+Dipti Jain
+
+Divya Chandrababu
+
+Divya Pal
+
+DS Kunwar
+
+Durgesh Nandan Jha
+
+Dwaipayan Datta
+
+Dwaipayan Ghosh
+
+Edwin D'Sa
+
+Ekatha Ann John
+
+Elina Priyadarshini Nayak
+
+Faiz Rahman Siddiqui
+
+Faizan Ahmad
+
+Falguni Banerjee
+
+G Rajiv
+
+G Sambasiva Rao
+
+Ganesh Lakshman
+
+Garima Prasher
+
+Garima Sharma
+
+Gaurav Bhatia
+
+Gaurav Gupta
+
+Gaurav Kanthwal
+
+Gaurav Malani
+
+Gayathri Sasibhooshan
+
+George Adimathra
+
+Gireesh P K
+
+Govind Kamat Maad
+
+Greeshma Gopal Giri
+
+Gurupriya S
+
+Hari Hara Nandanan
+
+Harish Murali
+
+Harshada Rege
+
+Hemali Chhapia
+
+Hetal Vyas
+
+Himanshi Dhawan
+
+Himanshu Bhatt
+
+Himanshu Kaushik
+
+Hindol Basu
+
+HM Aravind
+
+Hoskote Nagabhushanam
+
+Indrani Bagchi
+
+Indranil Basu
+
+IP Singh
+
+Isha Jain
+
+Ishan Srivastava
+
+Iti Shree Misra
+
+JAC Gladson
+
+JACK PITT BROOKE
+
+Jack Pitt-Brooke
+
+Jaideep Shenoy
+
+Jaikrishnan Nair
+
+Jamal Ayub
+
+Janani Sampath
+
+Jaspreet Nijher
+
+Jayanta Gupta
+
+Jhimli Mukherjee Pandey
+
+Joaquim Fernandes
+
+Joel Joseph
+
+Josy Joseph
+
+Jui Mukherjee
+
+Julie Mariappan
+
+Jyothi Prabhakar
+
+K A Shaji
+
+K Kumaraswamy
+
+K Praveen Kumar
+
+K R Rajeev
+
+K Sarojkumar Sharma
+
+K Shriniwas Rao
+
+Kapil Dixit
+
+Karsten Miranda
+
+Karthick S
+
+Karthikeyan Hemalatha
+
+Kelly Kislaya
+
+Keshav Naik
+
+Kounteya Sinha
+
+Krish Fernandes
+
+Krishna Kanta Chakraborty
+
+Krishnendu Bandyopadhyay
+
+Kunaal Majgaonkar
+
+Kundan Pandey
+
+L Saravanan
+
+Lara Rebello
+
+Law Kumar Mishra
+
+Lawrence Milton
+
+Laxmi Ajai Prasanna
+
+Leena Ghosh
+
+Lemuel Lall
+
+Lisa Antao
+
+M Allirajan
+
+M K Madhusoodan
+
+M K Sunil Kumar
+
+M P Prashanth
+
+M Ramya
+
+M Ratnakar
+
+M Sagar Kumar
+
+M Saleem Pandit
+
+M Suganth
+
+Madhavi Dharia Shah
+
+Madhu Daithota
+
+Mahendra K Singh
+
+Mahesh Buddi
+
+Mahir Haneef
+
+Manash Pratim Gohain
+
+Manigandan KR
+
+Manish
+
+Manish Raj
+
+Manish Umbrajkar
+
+Manjari Mishra
+
+Manju V
+
+Manoj Badgeri
+
+Manosh Das
+
+Manthan K Mehta
+
+Manu Aiyappa
+
+Manveer Saini
+
+Marcela Mora Y Aruajo
+
+Marcellus Baptista
+
+Marcus A Clay
+
+Marcus Mergulhao
+
+Maria Akram
+
+Maria Bilkis
+
+Mateen Hafeez
+
+Maxin Mathew
+
+Mayank Manohar
+
+Mayilvaganan
+
+MB Maramkal
+
+Meena Iyer
+
+Melvyn Thomas
+
+Merlin Francis
+
+Mihir Tanksale
+
+Minati Singha
+
+Mini Joseph Tejaswi
+
+Mir Ayub Ali Khan
+
+Misha Paul
+
+MN Samdani
+
+Mohua Chatterjee
+
+Mouneshwar Sonnad
+
+Moushumi Bora
+
+Murari Shetye
+
+Naheed Ataulla
+
+Namrata Singh
+
+Nandhu Sundaram
+
+Nandini Sen Gupta
+
+Nandita Ravi
+
+Narayan Namboodiri
+
+Naresh Mitra
+
+Nauzer Bharucha
+
+Navya Malini
+
+Naziya Alvi
+
+ND Shiva Kumar
+
+Neeraj Chauhan
+
+Neha Kaura
+
+Neha Lalchandani
+
+Neha Pushkarna
+
+Neha Shukla
+
+Newton Sequeira
+
+Nicole Suares
+
+Nidhi Singhi
+
+Nikhil Deshmukh
+
+Nikhila Henry
+
+Nilesh Bhattacharya
+
+Nimisha Tiwari
+
+Nirmala Govindarajan
+
+Nishikant Karlikar
+
+Nitasha Natu
+
+Nitesh Kumar Sharma
+
+Nitin Sethi
+
+Nitin Yeshwantrao
+
+Oinam Sunil
+
+P Naveen
+
+P Sangeetha
+
+P Sudhakaran
+
+P Vasantha Kumar
+
+Palak Nandi
+
+Pankaj Doval
+
+Pankaj Shah
+
+Parth Shastri
+
+Partha Bhaduri
+
+Partha Sinha
+
+Parvesh Kumar Sharma
+
+Paul Fernandes
+
+Paul John
+
+Pavan M V
+
+Payal Gwalani
+
+Pervez Iqbal Siddiqui
+
+Peter Nazareth
+
+Piali Dasgupta
+
+Piyali Dasgupta
+
+Piyush Pandey
+
+Prabin Kalita
+
+Prachi Mujumdar
+
+Pradeep Thakur
+
+Prajwal Hegde
+
+Pranav Nambiar
+
+Pranava Kumar Chaudhary
+
+Prasad Kulkarni
+
+Prasanth Menon
+
+Prashant Dayal
+
+Prashant Rupera
+
+Prashanth GN
+
+Prathibha Joy
+
+Pratibha Masand
+
+Pratiksha Ramkumar
+
+Preetha T S
+
+Preetu Nair
+
+Prithvijit Mitra
+
+Prithwish Ganguly
+
+Priyanka Dasgupta
+
+Priyanka Kachhava
+
+Priyanka Singh
+
+Proshun Chakraborty
+
+Purba Dutt
+
+Purusharth Aradhak
+
+Pushpa Narayan
+
+R Gokul
+
+R Satya
+
+R Uday Kumar
+
+Rachel Fernandes
+
+Rachna Singh
+
+Rageshri Ganguly
+
+Rahul Devulapalli
+
+Raj Shekhar
+
+Rajaram Satapathy
+
+Rajat Pandit
+
+Rajeev Dikshit
+
+Rajiv Kalkod
+
+Rajiv Mani
+
+Rajiv Srivastava
+
+Rakhi Chakrabarty
+
+Ramaninder K Bhatia
+
+Ramendra Singh
+
+Rashmi Drolia
+
+Rashmi Rajagopal
+
+Ravi Lakhwani
+
+Ravindra Uppar
+
+Ravindra Uppar
+
+Reagan Gavin Rasquinha
+
+Rebecca Samervel
+
+Renuka Vyavahare
+
+Reshma Kelkar Dabholkar
+
+Reza Noorani
+
+Rhik Kundu
+
+Ria Lawrence
+
+Richa Pinto
+
+Risha Chitlangia
+
+Ritu Sejwal
+
+Rohan Dua
+
+Rohit Bhardwaj
+
+Rohit Khanna
+
+Rohit Mullick
+
+Rohit PS
+
+Rohith B R
+
+Ronaldo
+
+Roshni Mukherjee
+
+Roshni Olivera
+
+Rosy Sequeira
+
+Ruchir Mishra
+
+Ruman Ganguly
+
+Rumu Banerjee
+
+Rupali Mukherjee
+
+Rupam Jain
+
+S Seethalakshmi
+
+Sachin Parashar
+
+Sachin Sharma
+
+Saeed Khan
+
+Saheli Chakraborty
+
+Saibal Bose
+
+Saibal Sen
+
+Saikat Ray
+
+Sajimon P S
+
+Salil Jose
+
+Sanat Savanal
+
+Sanaya Chavda
+
+Sandeep Ashar
+
+Sandeep Dabhekar
+
+Sandeep Mishra
+
+Sandeep Moudgal
+
+Sandhya Nair
+
+Sangamesh Menasinakai
+
+Sangeetha Nair
+
+SANJAY BANERJEE
+
+Sanjay Dutta
+
+Sanjay Ojha
+
+Sanjay Rajan
+
+Sanjeev Shivadekar
+
+Saradha Mohan Kumar
+
+Sarah Salvadore
+
+Sarang Dastane
+
+Saswati Mukherjee
+
+Satyanarayana
+
+Saumyajit Basu
+
+Saurabh Prashar
+
+Saurabh Sharma
+
+Saurabh Sinha
+
+Sayantanee Choudhury
+
+Selvaraj A
+
+Senthil Kumaran
+
+Shailendra Awasthi
+
+Shailvee Sharda
+
+Shalabh
+
+Sharad Vyas
+
+Sharin Wader
+
+Shariq Majeed
+
+Shatabdi Chakraborty
+
+Shawan Sen
+
+Shayan Acharya
+
+Shenoy C Karun
+
+Shenoy Karun
+
+Shibu Thomas
+
+Shilpa Bansal
+
+Shilpa Phadnis
+
+Shimona Kanwar
+
+Shiv Sharma
+
+Shoeb Khan
+
+Shounak Ghosal
+
+Shreya Bhandary
+
+Shreyas Bhat
+
+Shrivathsa Sridhar
+
+Shruti Jambhekar
+
+Shruti Pandit
+
+Shyam P V
+
+Siddharth Gaikwad
+
+Sindhu Kannan
+
+Smriti Singh
+
+Smrity Sharma
+
+Snehlata Shrivastav
+
+Solomon S Kumar
+
+Somdatta Basu
+
+Somit Sen
+
+Somreet Bhattacharya
+
+Soumittra S Bose
+
+Sreemoy Talukdar
+
+Sreemoyee Chatterjee
+
+Sribaala Vadlapatla
+
+Srinivas Reddy
+
+Srinivasa Ramanujam
+
+Srishti Ghosh Shinde
+
+Sruthy Susan Ullas
+
+Stanley Pinto
+
+Subodh Ghildiyal
+
+Suchandana Gupta
+
+Sudha Nambudiri
+
+Sudhanshu Bisen
+
+Sudheendra Tripathi
+
+Suhas Nayse
+
+Sujit Mahamulkar
+
+Sukhbir Siwach
+
+Sulogna Mehta
+
+Suman Chakraborti
+
+Sumati Yengkhom
+
+Sumit Bhattacharjee
+
+Sumitra Debroy
+
+Sunil Mungara
+
+Sunil Subbaiah
+
+Sunitha Rao R
+
+Suraksha.P
+
+Susan Ninan
+
+Sushma U N
+
+Swati Deshpande
+
+Swati Mathur
+
+Swati Rathor
+
+Swati Sengupta
+
+Swati Shinde
+
+Swati Thakur
+
+Syed Akbar
+
+Syed Intishab Ali
+
+Syed Rizwanullah
+
+T C Sreemol
+
+T P Nijeesh
+
+T Ramavarman
+
+TA Ameerudheen
+
+Tanvi Trivedi
+
+Tanya Datta
+
+Tathagata Ray Chowdhury
+
+Tushar Behl
+
+Tushar Tere
+
+Udit Prasanna Mukherji
+
+Umesh Isalkar
+
+V Anand & K Shriniwas Rao
+
+V Ayyappan
+
+V Kamalakara Rao
+
+V Lakshmi
+
+Vaibhav Ganjapure
+
+Vaivasvat Venkat
+
+Vandana Keelor
+
+Venkatesh Bayya
+
+Vibhor Mohan
+
+Vijay Desouza
+
+Vijay Pinjarkar
+
+Vijay Singh
+
+Vijay V Singh
+
+Vijaysinh Parmar
+
+Vijesh MV
+
+Vinamrata Borwankar
+
+Vinay Lokesh
+
+Vinay Nayudu
+
+FROM THE TIMES OF INDIA
+LATEST
+READ
+COMMENTED
+SHARED
+VIDEOS
+Pragya Thakur on 'temple run' after EC curbs on campaigning
+472 Maoist surrendered this year, highest in 3 years: Govt
+Sensex surges over 200 points on global cues
+Suggestions invited for amendment to PDPP Act
+More »
+OTHER TIMES GROUP NEWS SITES
+The Economic Times
+Hindi Economic Times
+Navbharat Times
+Maharashtra Times
+Vijaya Karnataka
+Telugu Samayam
+Tamil Samayam
+Malayalam Samayam
+Ei Samay
+I am Gujarat
+Times Now
+Times Now Hindi
+TimesPoints
+Indiatimes
+Brand Capital
+Education Times
+Times Food
+Miss Kyra
+Mumbai Mirror
+Pune Mirror
+Ahmedabad Mirror
+Bangalore Mirror
+MX Player
+NBT Gold Podcast
+Ei Samay Gold Podcast
+MX ShareKaro
+MX TakaTak App
+LIVING AND ENTERTAINMENT
+iDiva
+MensXP.com
+Femina
+ETimes
+Grazia
+Zoom
+Travel Destinations
+Bombay Times
+Cricbuzz.com
+Filmfare
+Online Songs
+TV
+Lifestyle
+Longwalks App
+Newspaper Subscription
+Food News
+Times Prime
+Whats Hot
+TOP TRENDS
+Coronavirus cases in India
+Rajasthan Government News
+Amar Singh Death
+Coronavirus India update live
+FA Cup Final
+Narendra Modi
+IPL 2020 news
+APBIE Inter Mark Memos
+Chandrayaan 2 news
+International Flights India
+TN Results 2020
+UK Board Result 2020
+News
+Varalakshmi Vratam 2020
+Coronavirus news
+Horoscope today
+Latest news
+Step by Step Pizza Recipe
+SERVICES
+Ads 2 Book
+Bank Exam App
+ET Money Finance App
+CouponDunia
+Dineout
+Magicbricks
+Techgig
+Times Jobs
+Bollywood News
+Times Mobile
+Remit 2 India
+TC Next
+Astro Speak
+Gadgets Now
+Careers
+Colombia
+POPULAR CATEGORIES
+Headlines
+Sports News
+Business News
+India News
+World News
+Bollywood News
+Health & Fitness Tips
+Indian TV Shows
+Celebrity Photos
+HOT ON THE WEB
+Sushant Case
+Sushant Meditation Plans
+Sushant Sister
+Shah Rukh Khan
+Hardik-Natasa
+Siddharth Pithani
+Sushant Father
+Friendship Day SMS
+Friendship Day Memes
+TRENDING TOPICS
+Friendship Day Images
+Best Friendship Day Wishes
+Friendship Day History
+Friendship Day Pictures
+Raksha Bandhan History
+Friendship Day Quotes
+Friendship Day Wishes
+Friendship Day Greeting
+Friendship Day 2020
+Friendship Day Cards
+Friendship Day Messages
+Raksha Bandhan Wishes
+Amazon App Quiz Today
+Oppo Reno 4 Pro
+iPhone 12 Launch
+Poco M2 Pro
+Microwave Oven Online
+Friendship Day Gifts
+Hindustan Shipyard Vizag
+Andhra Pradesh Capital News
+Amazon Sale
+FOLLOW US ON
+FACEBOOK
+TWITTER
+RSS FEED
+YOUTUBE
+DOWNLOAD TOI APP
+ANDROID
+IPHONE
+BLACKBERRY
+IPAD
+WINDOWS PHONE
+About us
+Create Your Own Ad
+Terms of Use and Grievance Redressal Policy
+Privacy policy
+Advertise with us
+RSS
+Newsletter
+Feedback
+ePaper
+Sitemap
+Archives
+Copyright © 2020 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication ServiceBy clicking Agree & Join, you agree to the LinkedIn User Agreement, Privacy Policy, and Cookie Policy.
+Agree & Join
+Already have an account? Sign in
