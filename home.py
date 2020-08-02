@@ -961,6 +961,92 @@ def facebook_match():
             
     f.close()
 
+def twitter_match():
+    global img_read, img_label
+
+    if(img_label == None):
+        messagebox.showerror("Error", "No image selected. ")
+        return
+
+    crims_found_labels = []
+    for wid in right_frame.winfo_children():
+        wid.destroy()
+
+    frame = cv2.flip(img_read, 1, 0)
+
+    def data(cc):
+        
+        r = requests.get(cc)
+        s = BeautifulSoup(r.text,"html.parser")
+        p = s.find("meta",property ="og:image").attrs['content']
+        with open("a"+".jpg","wb") as pic:
+                binary = requests.get(p).content
+                pic.write(binary)
+ 
+
+
+
+
+    (known_face_names, known_face_encodings) = train_model()
+    #unknown_image = face_recognition.load_image_file("img3.jpg")
+    unknown_image = cv2.resize(frame,(500,500))
+    face_locations = detect_faces(frame)
+
+    (frame,name) = recognize_face(frame,known_face_names,known_face_encodings)
+    abc= ' '.join([str(elem) for elem in name])
+    cc='https://twitter.com/search?q=%20'
+    dd='%20'
+    ee='&src=typed_query&f=user'
+    zz=str(cc)+str(abc)+str(ee)
+    print(zz)
+
+    driver = webdriver.Chrome("/usr/local/bin/chromedriver")
+
+    driver.get(zz)
+    time.sleep(2)
+    i=1
+    j = 82
+    while(True):
+            location = driver.find_element_by_css_selector("#react-root > div > div > div.css-1dbjc4n.r-13qz1uu.r-417010 > main > div > div > div > div > div > div > div > div > section > div > div > div > div:nth-child("+str(i)+") > div > div").location['y']
+            size = driver.find_element_by_css_selector("#react-root > div > div > div.css-1dbjc4n.r-13qz1uu.r-417010 > main > div > div > div > div > div > div > div > div > section > div > div > div > div:nth-child("+str(i)+") > div > div").size['height']
+            #print(location)
+            driver.find_element_by_css_selector("#react-root > div > div > div.css-1dbjc4n.r-13qz1uu.r-417010 > main > div > div > div > div > div > div > div > div > section > div > div > div > div:nth-child("+str(i)+") > div > div").click()
+            time.sleep(1)
+            cc = driver.current_url
+            #print(cc)
+            driver.find_element_by_css_selector("#react-root > div > div > div.css-1dbjc4n.r-13qz1uu.r-417010 > main > div > div > div > div > div > div > div > div > div:nth-child(1) > div.css-1dbjc4n.r-ku1wi2.r-1j3t67a.r-m611by > div.css-1dbjc4n.r-obd0qt.r-18u37iz.r-1w6e6rj.r-1wtj0ep > a").click()
+            time.sleep(1)
+            driver.save_screenshot("profile_pic.png")
+            driver.back()
+            image = face_recognition.load_image_file("profile_pic.png")
+            image = cv2.resize(image,(500,500))
+            (frame,names) = recognize_face(image,known_face_names,known_face_encodings)
+            named = ' '.join([str(elem) for elem in names])
+            print(named)
+            if named==abc:
+                print("scrapping started")
+                time.sleep(2)
+                dd=driver.find_element_by_xpath("//div[@class='css-1dbjc4n r-ku1wi2 r-1j3t67a r-m611by']").text
+                file_object  = open("output_twitter.txt",'w')
+                file_object.write(dd)
+                file_object.close()
+                file_object  = open("output_twitter.txt",'a')
+                file_object.write("\n"+cc)
+                file_object.close()  
+                time.sleep(2)
+                print("scarapping complete")
+                driver.close()
+                file_object  = open("output_twitter.txt",'r')
+                img_read = cv2.imread("profile_pic.png")
+                lab = Label(right_frame,bg="#660033",text=file_object.read(),font="Helvetica 10 bold italic",fg ="yellow")
+                img_size = 200
+                showImage(img_read, img_size)
+                lab.pack()
+            driver.execute_script("window.history.go(-1)")
+            driver.execute_script("window.scrollTo("+(str(location))+","+(str(j))+")")
+            i = i+1
+            j = j+82
+
 
 def facebook():
     global active_page, left_frame, right_frame, img_label, heading
@@ -982,6 +1068,9 @@ def facebook():
            #fg="white", pady=10, bd=0, highlightthickness=0, activebackground="#091428",
            #activeforeground="white").grid(row=0, column=1, padx=25, pady=25)
     tk.Button(btn_grid, text="facebook_match", command=facebook_match, font="Arial 15 bold", padx=20, bg="#2196f3",
+           fg="white", pady=10, bd=0, highlightthickness=0, activebackground="#091428",
+           activeforeground="white").grid(row=0, column=1, padx=25, pady=25)
+    tk.Button(btn_grid, text="facebook_match", command=twitter_match, font="Arial 15 bold", padx=20, bg="#2196f3",
            fg="white", pady=10, bd=0, highlightthickness=0, activebackground="#091428",
            activeforeground="white").grid(row=0, column=1, padx=25, pady=25)
 
@@ -1066,7 +1155,7 @@ btn_frame.pack()
 tk.Button(btn_frame, text="Register Criminal", command=getPage1)
 tk.Button(btn_frame, text="Detect Criminal", command=getPage2)
 tk.Button(btn_frame, text="Video Surveillance", command=getPage3)
-tk.Button(btn_frame, text="Facebook Matcher", command=facebook)
+tk.Button(btn_frame, text="Social Media", command=facebook)
 tk.Button(btn_frame, text="Crime Prediction", command=getPage6)
 tk.Button(btn_frame, text="Violence Detection", command=violence)
 
