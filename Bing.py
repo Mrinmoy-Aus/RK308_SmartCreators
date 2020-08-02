@@ -21,7 +21,7 @@ search = driver.find_element_by_xpath('//*[@id="sb_form_q"]')
 search.send_keys(abc,Keys.ENTER)
 time.sleep(2)
 #for a in driver.find_elements_by_xpath('.//a'):
-#    print(a.get_attribute('href'))
+##    print(a.get_attribute('href'))
         
 #//*[@id="rso"]/div[1]/div/div[1]/a/h3
 #//*[@id="rso"]/div[2]/div/div[1]/a/h3
