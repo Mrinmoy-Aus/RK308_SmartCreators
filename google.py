@@ -14,7 +14,6 @@ from keyboard import press
 abc='Pralay Sarkar'
 zz='https://www.google.co.in/webhp'
 driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver")
-
 driver.get(zz)
 time.sleep(0.5)
 search = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
