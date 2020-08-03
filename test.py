@@ -1,75 +1,94 @@
-import face_recognition
-from PIL import Image, ImageDraw
-import numpy as np
-import cv2
-import os
+#input------>conected to opencv.py
+lst=[1,1,1,1,1,0,0,0,1]
+gun=lst[0]
+bullets=lst[1]
+blood=lst[2]
+knifes=lst[3]
+gloves=lst[4]
+clothes=lst[5]
+glass=lst[6]
+dead_body=lst[7]
+needles=lst[8]
+string1=[int(gun),int(bullets),int(blood),int(knifes),int(gloves),int(clothes),int(glass),int(dead_body),int(needles)]
+
+string=['gun','bullets','blood','knifes','gloves','clothes','glass','dead body','needles']
+
+if string1[0]==1:
+    a=string[0]
+    a=80
+if string1[0]==0:
+    a=string[0]
+    a=0
+if string1[1]==1:
+    b=string[1]
+    b=10
+if string1[1]==0:
+    b=string[1]
+    b=0
+if string1[2]==1:
+    c=string[2]
+    c=25
+if string1[2]==0:
+    c=string[2]
+    c=0
+if string1[3]==1:
+    d=string[3]
+    d=50
+if string1[3]==0:
+    d=string[3]
+    d=0
+if string1[4]==1:
+    e=string[4]
+    e=60
+if string1[4]==0:
+    e=string[4]
+    e=0
+if string1[5]==1:
+    f=string[5]
+    f=35
+if string1[5]==0:
+    f=string[5]
+    f=0
+if string1[6]==1:
+    g=string[6]
+    g=10
+if string1[6]==0:
+    g=string[6]
+    g=0
+if string1[7]==1:
+    h=string[7]
+    h=90
+if string1[7]==0:
+    h=string[7]
+    h=0
+if string1[8]==1:
+    i=string[8]
+    i=75
+if string1[8]==0:
+    i=string[8]
+    i=0
+lst=[int(a),int(b),int(c),int(d),int(e),int(f),int(g),int(h),int(i)]
 
 
-def train_model():
-	fn_dir = 'face_samples'
-	print('Training...')
-	(known_face_encodings,known_face_names, id) = ([], {}, 0)
-
-	for (subdirs, dirs, files) in os.walk(fn_dir):
-		for subdir in dirs:
-			known_face_names[id] = subdir
-			subjectpath = os.path.join(fn_dir, subdir)
-			for filename in os.listdir(subjectpath):
-				f_name, f_extension = os.path.splitext(filename)
-				if(f_extension.lower() not in ['.png','.jpg','.jpeg','.gif','.pgm']):
-					print("Skipping "+filename+", wrong file type")
-					continue
-				path = subjectpath + '/' + filename
-				name_image = face_recognition.load_image_file(path)
-				name_face_encoding = face_recognition.face_encodings(name_image)[0]
-
-				known_face_encodings.append(name_face_encoding)
-			id += 1
-
-	#print(known_face_encodings)
-	#print(known_face_names)
-	return(known_face_names,known_face_encodings)
-
-def detect_faces(frame):
-	face_locations = face_recognition.face_locations(frame)
-	#face_encodings = face_recognition.face_encodings(frame, face_locations)
-
-	return face_locations
-
-def recognize_face(frame, known_face_names,known_face_encodings):
-	# pil_image = Image.fromarray(frame)
-	# draw = ImageDraw.Draw(pil_image)
-	face_locations = face_recognition.face_locations(frame)
-	face_encodings = face_recognition.face_encodings(frame, face_locations)
-	names = []
-	for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
-		matches = face_recognition.compare_faces(known_face_encodings, face_encoding)
-
-		name = "Unknown"
-
-		face_distances = face_recognition.face_distance(known_face_encodings, face_encoding)
-		best_match_index = np.argmin(face_distances)
-		if matches[best_match_index]:
-			name = known_face_names[best_match_index]
-			names.append(name)
-		cv2.rectangle(frame, (left, top), (right, bottom), (0, 0, 255), 2)
-
-        # Draw a label with a name below the face
-		cv2.rectangle(frame, (left, bottom - 20), (right, bottom), (0, 0, 255), cv2.FILLED)
-		font = cv2.FONT_HERSHEY_DUPLEX
-		cv2.putText(frame, name, (left + 6, bottom - 6), font, 0.5, (0, 0, 0), 1)
-		#pil_image.show()
-	return(frame,names)
-
-		#return(frame,name)
-
-
-# (known_face_names, known_face_encodings) = train_model()
-# unknown_image = face_recognition.load_image_file("two.jpg")
-# unknown_image = cv2.resize(unknown_image,(500,500))
-
-# (face_locations,face_encodings) = detect_faces(unknown_image)
-
-# pil_image = recognize_face(unknown_image,face_locations,known_face_names,known_face_encodings)
-# pil_image.show()
-
+  
+# sorting the list 
+lst.sort()
+cc=lst[-1]   
+if int(cc)==int(a):
+	print(string[0])
+if int(cc)==int(b):
+	print(string[1])
+if int(cc)==int(c):
+	print(string[2])
+if int(cc)==int(d):
+	print(string[3])
+if int(cc)==int(e):
+	print(string[4])
+if int(cc)==int(f):
+	print(string[5])
+if int(cc)==int(g):
+	print(string[6])
+if int(cc)==int(h):
+	print(string[7])
+if int(cc)==int(i):
+	print(string[8])
