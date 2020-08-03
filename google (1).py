@@ -11,7 +11,6 @@ from pynput.keyboard import Key, Controller
 import pyautogui 
 from keyboard import press
 import codecs
-
 abc='Pralay Sarkar'
 zz='https://www.google.co.in/webhp'
 driver = webdriver.Chrome("C:/Users/Anushree Khan/Downloads/chromedriver_win32/chromedriver")
