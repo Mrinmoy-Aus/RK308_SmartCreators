@@ -4,7 +4,6 @@ import numpy as np
 import cv2
 import os
 
-
 def train_model():
 	fn_dir = 'face_samples'
 	print('Training...')
