@@ -1,5 +1,6 @@
 #input------>conected to opencv.py
 lst=[1,1,1,1,1,0,0,0,1]
+#replaced string
 gun=lst[0]
 bullets=lst[1]
 blood=lst[2]
