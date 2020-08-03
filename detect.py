@@ -12,7 +12,6 @@ ap.add_argument('-cl', '--classes', required=True,
                 help = 'path to text file containing class names')
 args = ap.parse_args()
 
-
 def get_output_layers(net):
     
     layer_names = net.getLayerNames()
