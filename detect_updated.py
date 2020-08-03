@@ -2,9 +2,7 @@ import cv2
 import argparse
 import numpy as np
 from tkinter import *  
-  
 from tkinter import messagebox  
-
 ap = argparse.ArgumentParser()
 ap.add_argument('-i', '--image', required=True,
                 help = 'path to input image')
@@ -194,6 +192,7 @@ lst=[int(a),int(b),int(c),int(d),int(e),int(f),int(g),int(h),int(i)]
   
 # sorting the list 
 lst.sort()
+#print greatest value
 cc=lst[-1]   
 if int(cc)==int(a):
 	print(string[0])
