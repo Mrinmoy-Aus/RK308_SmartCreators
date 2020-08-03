@@ -10,6 +10,7 @@ if (cap.isOpened()== False):
     print("Error opening video file") 
 
 # Read until video is completed 
+
 while(cap.isOpened()== True): 
 	
     #Capture frame-by-frame 
