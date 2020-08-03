@@ -14,18 +14,13 @@ keyboard = Controller()
 abc=' '
 a='mrinmoy' ######### input ###########
 b='aus'     ######### input ###########
-
-
-        
-       
                 
 cc='https://twitter.com/search?q=%20'
 dd='%20'
 ee='&src=typed_query&f=user'
 zz=str(cc)+str(a)+str(dd)+str(b)+str(ee)
 print(zz)
-
-
+#print the total page link
 driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver")
 
 driver.get(zz)
