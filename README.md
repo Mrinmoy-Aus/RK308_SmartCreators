@@ -4,7 +4,7 @@
 
 <img src="https://github.com/argho28/RK308_SmartCreators/blob/master/SmartCreators2020.png">
 
-## TEAM NAME: *SmartCreators*
+### TEAM NAME: *SmartCreators*
 
 ### PROBLEM STATEMENT: *Real-Time Criminal Identification System*
 
