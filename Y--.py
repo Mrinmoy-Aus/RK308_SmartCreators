@@ -23,3 +23,4 @@ for a in driver.find_elements_by_xpath('.//a'):
     print(a.get_attribute('href'))
     
     
+    
