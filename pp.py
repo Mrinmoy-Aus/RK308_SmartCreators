@@ -2,6 +2,7 @@ import os
 import shutil 
 destination = "2.jpg"
 currentframe = 0
+
 for i in range(0, 200):
     source = 'data/frame' + str(currentframe) + '.jpg'
     dest = shutil.copyfile(source, destination)
