@@ -65,7 +65,7 @@ from mpl_toolkits import mplot3d
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#####################
 
 active_page = 0
 thread_event = None
@@ -79,7 +79,7 @@ img_list = []
 slide_caption = None
 slide_control_panel = None
 current_slide = -1
-
+#######################
 
 
 root = tk.Tk()
@@ -88,7 +88,7 @@ root.title('SmartCreators')
 root.geometry('1500x900+200+100')
 root.resizable(True, True)
 
-
+#########################
 
 
 # create Pages
