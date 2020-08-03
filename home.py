@@ -47,6 +47,23 @@ import sklearn as sk
 from sklearn.linear_model import LinearRegression
 import plotly.express as px
 import plotly.io as pio
+from selenium import webdriver
+from selenium import*
+from selenium.webdriver.common.keys import Keys
+import time
+import pynput
+import requests
+from bs4 import BeautifulSoup
+import urllib.request
+import urllib.request as urllib2
+from pynput.keyboard import Key, Controller
+import codecs
+import nltk
+from textblob import TextBlob
+import re
+from mpl_toolkits import mplot3d
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 
@@ -993,6 +1010,134 @@ def twitter_match():
     face_locations = detect_faces(frame)
 
     (frame,name) = recognize_face(frame,known_face_names,known_face_encodings)
+    #print(name)
+           
+            
+    username='mrinmoyaus@gmail.com'
+    password='Mrinmoyaus1998@'
+    abc= ' '.join([str(elem) for elem in name])
+    url='http://www.facebook.com/'
+
+    driver = webdriver.Chrome("/usr/local/bin/chromedriver")
+
+    driver.get(url)
+    driver.find_element_by_id('email').send_keys(username)
+    driver.find_element_by_id('pass').send_keys(password)
+    driver.find_element_by_id('loginbutton').click()
+
+
+    time.sleep(5)
+    search = driver.find_element_by_xpath('//*[@id="mount_0_0"]/div/div/div[1]/div[2]/div[2]/div/div/div[1]/div/div[3]/label/input')
+    search.send_keys(abc,Keys.ENTER)
+
+
+
+
+
+    i=0
+    while(True):
+            try:
+                    action = webdriver.common.action_chains.ActionChains(driver)
+                    a=action.move_to_element_with_offset(search,132,320)
+                    time.sleep(3)
+                    a.click()
+                    action.click()
+                    action.perform()
+                    time.sleep(3)
+            except:
+                    action = webdriver.common.action_chains.ActionChains(driver)
+                    a=action.move_to_element_with_offset(search,132,310)
+                    time.sleep(3)
+                    a.click()
+                    action.click()
+                    action.perform()
+                    time.sleep(3)
+            
+            
+            try:
+                    driver.find_element_by_xpath("//div[@class='rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 rj1gh0hx buofh1pr g5gj957u hpfvmrgz dp1hu0rb']//"+"div"+"["+str(i)+"]"+"//div[1]//div[1]//div[1]//div[1]//div[1]//div[2]//div[1]//div[1]//span[1]//div[1]//div[1]//a[1]").click()
+                    print("enter the account")
+                    time.sleep(3)
+                    url = driver.current_url
+                    data(url)
+                    image = face_recognition.load_image_file("a.jpg")
+                    image = cv2.resize(image,(500,500))
+                    (frame,names) = recognize_face(image,known_face_names,known_face_encodings)
+                    named = ' '.join([str(elem) for elem in names])
+                    if named==abc:
+                        copiedText = driver.find_element_by_class_name('sjgh65i0').text
+                        xxx=driver.find_element_by_css_selector('#mount_0_0 > div > div > div.rq0escxv.l9j0dhe7.du4w35lb > div.rq0escxv.l9j0dhe7.du4w35lb > div > div > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb > div > div > div > div.d2edcug0.cbu4d94t.j83agx80.bp9cbjyn > div.rq0escxv.d2edcug0.ecyo15nh.hv4rvrfc.dati1w0a.tr9rh885 > div > div.rq0escxv.l9j0dhe7.du4w35lb.d2edcug0.o387gat7.buofh1pr.g5gj957u.hpfvmrgz.aov4n071.oi9244e8.bi6gxh9e.h676nmdw.aghb5jc5.rek2kq2y > div > div > div > div:nth-child(1) > div').text
+                        print(copiedText)
+                        zz='a'+str(".txt")
+                        file_object  = open(str(zz),'w+')
+                        file_object.write(xxx)
+                        file_object.close()
+                        file_object  = open(str(zz),'a')
+                        file_object.write("\n"+url)
+                        file_object.close()
+                        print("scraping complete")
+                        time.sleep(3)
+                        # driver.execute_script("window.history.go(-1)")
+                        # i+=1
+                        driver.close()
+                        file_object  = open("a.txt",'r')
+                        img_read = cv2.imread("a.jpg")
+                        lab = Label(right_frame,bg="#660033",text=file_object.read(),font="Helvetica 10 bold italic",fg ="yellow")
+                        img_size = 200
+                        showImage(img_read, img_size)
+                        lab.pack()
+                    else:
+                        driver.execute_script("window.history.go(-1)")
+                        i+=1
+            except ElementNotInteractableException:
+                driver.execute_script("window.history.go(-1)")
+                i+=1
+            except NoSuchElementException:
+                driver.execute_script("0, 100*document.body.scrollHeight;")
+                i+=1
+            except AttributeError:
+                driver.execute_script("window.history.go(-1)")
+                i+=1
+            except InvalidSessionIdException:
+                print("Completed")
+
+
+            
+    f.close()
+
+
+def twitter_match():
+    global img_read, img_label
+
+    if(img_label == None):
+        messagebox.showerror("Error", "No image selected. ")
+        return
+
+    crims_found_labels = []
+    for wid in right_frame.winfo_children():
+        wid.destroy()
+
+    frame = cv2.flip(img_read, 1, 0)
+
+    def data(cc):
+        
+        r = requests.get(cc)
+        s = BeautifulSoup(r.text,"html.parser")
+        p = s.find("meta",property ="og:image").attrs['content']
+        with open("a"+".jpg","wb") as pic:
+                binary = requests.get(p).content
+                pic.write(binary)
+ 
+
+
+
+
+    (known_face_names, known_face_encodings) = train_model()
+    #unknown_image = face_recognition.load_image_file("img3.jpg")
+    unknown_image = cv2.resize(frame,(500,500))
+    face_locations = detect_faces(frame)
+
+    (frame,name) = recognize_face(frame,known_face_names,known_face_encodings)
     abc= ' '.join([str(elem) for elem in name])
     cc='https://twitter.com/search?q=%20'
     dd='%20'
@@ -1035,6 +1180,88 @@ def twitter_match():
                 file_object.close()  
                 time.sleep(2)
                 print("scarapping complete")
+                keyboard = Controller()
+
+                #url= cc
+                #driver = webdriver.Chrome("/usr/local/bin/chromedriver")
+
+                #driver.get(url)
+
+                time.sleep(2)
+                dd=driver.find_element_by_xpath("//body").text
+                print(dd)
+                cc=str(dd)
+                file_object  = codecs.open("output_twitter.txt","w","utf-8")
+                file_object.write(cc)
+                file_object.close()
+                #driver.quit()
+                reviews_train=[]
+                #text3.txt
+                file1 = open('output_twitter.txt',encoding="utf8")
+                for line in file1:
+                    reviews_train.append(line.strip())
+                print("The train file look like is:")
+                print(reviews_train[0:10])
+                REPLACE_NO_SPACE = re.compile("[.;:!\'?,\"()\[\]]")
+                REPLACE_WITH_SPACE = re.compile("(<br\s*/><br\s*/>)|(\-)|(\/)")
+
+                def preprocess_reviews(reviews):
+                    reviews = [REPLACE_NO_SPACE.sub("", line.lower()) for line in reviews]
+                    reviews = [REPLACE_WITH_SPACE.sub(" ", line) for line in reviews]
+                    
+                    return reviews
+
+                reviews_train_clean = preprocess_reviews(reviews_train)
+                negatives=[]
+                neutrals=[]
+                positives=[]
+                sum1=0
+                sum2=0
+                sum3=0
+                cont=0
+                cont1=0
+                cont2=0
+                cont3=0
+                n1=[]
+                n2=[]
+                n3=[]
+                #print("\n the clean train file is:")
+                #print(reviews_train_clean[:10])
+                #print("The negative comments are:")
+                for i in range(0,len(reviews_train_clean)):
+                    blob1=TextBlob(reviews_train_clean[i])
+                    et1,et2=blob1.sentiment
+                    
+                    if et1<0 and et1>=-1:
+                        negatives.append(reviews_train_clean[i]+" "+str(et1))
+                        sum1=sum1+et1
+                        cont=cont+1
+                        print(reviews_train_clean[i])
+                        print("Polarity:{}".format(et1))
+                        cont1=cont1+1
+                        n1.append(et1)
+                    elif et1==0:
+                        neutrals.append(reviews_train_clean[i]+" "+str(et1))
+                        sum2=sum2+et1
+                        cont=cont+1
+                        cont2=cont2+1
+                        n2.append(et1)
+                    else:
+                        positives.append(reviews_train_clean[i]+" "+str(et1))
+                        sum3=sum3+et1
+                        cont=cont+1
+                        cont3=cont3+1
+                        n3.append(et1)
+
+
+                tweets=[cont1,cont2,cont3]
+                bars=['Violent','Neutral','Non-Violent']
+                y_pos=np.arange(len(bars))
+                plt.bar(y_pos,tweets,color=['red','blue','green'])
+                plt.xticks(y_pos,bars)
+                plt.xlabel("Classification of Tweet")
+                plt.ylabel("Number of Tweet")
+                plt.savefig("violence.png")
                 driver.close()
                 file_object  = open("output_twitter.txt",'r')
                 img_read = cv2.imread("profile_pic.png")
@@ -1042,6 +1269,7 @@ def twitter_match():
                 img_size = 200
                 showImage(img_read, img_size)
                 lab.pack()
+                plt.show()
             driver.execute_script("window.history.go(-1)")
             driver.execute_script("window.scrollTo("+(str(location))+","+(str(j))+")")
             i = i+1
