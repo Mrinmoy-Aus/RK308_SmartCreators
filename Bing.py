@@ -7,9 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 import urllib.request as urllib2
-
-
-		
+	
 #---------------------
 abc='mrinmoy aus'
 zz='https://www.bing.com/'
