@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 import urllib.request as urllib2
-
+#------------------------>input string
 abc='Pralay Sarkar'
 zz='https://www.google.co.in/webhp'
 driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver")
