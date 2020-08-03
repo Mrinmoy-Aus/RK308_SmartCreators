@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import urllib.request as urllib2
 	
-#---------------------
+#---------------------input string
 abc='mrinmoy aus'
 zz='https://www.bing.com/'
 driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver")
