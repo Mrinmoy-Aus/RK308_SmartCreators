@@ -11,7 +11,6 @@ from PIL import ImageTk, Image
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 #from home.py import *
-
 def selectImage():
     global left_frame, img_label, img_read
     for wid in right_frame.winfo_children():
