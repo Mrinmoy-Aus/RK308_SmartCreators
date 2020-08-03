@@ -18,13 +18,7 @@ time.sleep(0.5)
 search = driver.find_element_by_xpath('//*[@id="sb_form_q"]')
 search.send_keys(abc,Keys.ENTER)
 time.sleep(2)
-#for a in driver.find_elements_by_xpath('.//a'):
-##    print(a.get_attribute('href'))
-        
-#//*[@id="rso"]/div[1]/div/div[1]/a/h3
-#//*[@id="rso"]/div[2]/div/div[1]/a/h3
-##b_results > li:nth-child(5) > h2 > a
-##b_results > li:nth-child(2) > h2 > a
+
 i=2
 print("#b_results > li:nth-child("+str(i)+") > h2 > a")
 while(1):
