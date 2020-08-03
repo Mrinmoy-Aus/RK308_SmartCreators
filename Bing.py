@@ -6,8 +6,7 @@ import pynput
 import requests
 from bs4 import BeautifulSoup
 import urllib.request
-import urllib.request as urllib2
-	
+import urllib.request as urllib2	
 #---------------------input string
 abc='mrinmoy aus'
 zz='https://www.bing.com/'
