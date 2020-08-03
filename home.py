@@ -905,8 +905,6 @@ def facebook_match():
 
 
 
-
-
     i=0
     while(True):
             try:
@@ -979,6 +977,7 @@ def facebook_match():
     f.close()
 
 def twitter_match():
+    
     global img_read, img_label
 
     if(img_label == None):
@@ -1107,6 +1106,7 @@ def twitter_match():
 
 
 def twitter_match():
+    
     global img_read, img_label
 
     if(img_label == None):
