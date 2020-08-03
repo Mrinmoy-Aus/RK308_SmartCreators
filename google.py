@@ -10,7 +10,7 @@ import urllib.request as urllib2
 from pynput.keyboard import Key, Controller
 import pyautogui 
 from keyboard import press		
-
+#----------------->>input string
 abc='Pralay Sarkar'
 zz='https://www.google.co.in/webhp'
 driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver")
