@@ -15,13 +15,11 @@ import codecs
 abc='Pralay Sarkar'
 zz='https://www.google.co.in/webhp'
 driver = webdriver.Chrome("C:/Users/Anushree Khan/Downloads/chromedriver_win32/chromedriver")
-
 driver.get(zz)
 time.sleep(0.5)
 search = driver.find_element_by_xpath('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input')
 search.send_keys(abc,Keys.ENTER)
 time.sleep(2)
-
 i=1
 while(1):
     driver.find_element_by_css_selector("#rso > div:nth-child("+str(i)+") > div > div.r > a > h3").click()
