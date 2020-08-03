@@ -9,6 +9,7 @@ import sys
 import tkinter as tk
 from PIL import ImageTk, Image
 
+
 ap = argparse.ArgumentParser()
 ap.add_argument('-i', '--image', required=True,
                 help = 'path to input image')
