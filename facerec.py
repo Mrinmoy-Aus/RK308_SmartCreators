@@ -10,6 +10,7 @@ def train_model():
     fn_dir = 'face_samples'
 
     print('Training...')
+    
 
     (images, lables, names, id) = ([], [], {}, 0)
 
