@@ -897,7 +897,7 @@ def facebook_match():
     driver.get(url)
     driver.find_element_by_id('email').send_keys(username)
     driver.find_element_by_id('pass').send_keys(password)
-    driver.find_element_by_id('loginbutton').click()
+    driver.find_element_by_xpath('//button[@id="u_0_b"]').click()
 
 
     time.sleep(5)
@@ -927,7 +927,8 @@ def facebook_match():
             
             
             try:
-                    driver.find_element_by_xpath("//div[@class='rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 rj1gh0hx buofh1pr g5gj957u hpfvmrgz dp1hu0rb']//"+"div"+"["+str(i)+"]"+"//div[1]//div[1]//div[1]//div[1]//div[1]//div[2]//div[1]//div[1]//span[1]//div[1]//div[1]//a[1]").click()
+                    driver.find_element_by_xpath("//div[@class='rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 rj1gh0hx buofh1pr g5gj957u hpfvmrgz dp1hu0rb']//"+"div"+"["+str(i)+"]"+"//div[1]//div[1]//div[1]//div[1]//div[1]//div[2]//div[1]//div[1]//span[1]//div[1]//a[1]//span[1]").click()
+                    print("enter the account")
                     print("enter the account")
                     time.sleep(3)
                     url = driver.current_url
