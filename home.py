@@ -910,7 +910,7 @@ def facebook_match():
     while(True):
             try:
                     action = webdriver.common.action_chains.ActionChains(driver)
-                    a=action.move_to_element_with_offset(search,132,320)
+                    a=action.move_to_element_with_offset(search,136,320)
                     time.sleep(3)
                     a.click()
                     action.click()
@@ -918,7 +918,7 @@ def facebook_match():
                     time.sleep(3)
             except:
                     action = webdriver.common.action_chains.ActionChains(driver)
-                    a=action.move_to_element_with_offset(search,132,310)
+                    a=action.move_to_element_with_offset(search,136,310)
                     time.sleep(3)
                     a.click()
                     action.click()
