@@ -36,7 +36,7 @@
 - Matplotlib(`pip install matplotlib`)
 - Beautifulsoup4(`pip install beautifulsoup4`)
 ### Install Packages
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 ### To run the model:
 > python home.py
