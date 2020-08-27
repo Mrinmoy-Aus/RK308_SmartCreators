@@ -887,8 +887,8 @@ def facebook_match():
     #print(name)
            
             
-    username='mrinmoyaus@gmail.com'
-    password='Huddle1998@'
+    username=''
+    password=''
     abc= ' '.join([str(elem) for elem in name])
     url='http://www.facebook.com/'
 
