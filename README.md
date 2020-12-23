@@ -17,7 +17,6 @@
 
 ### Contributors
 <a href="https://github.com/argho28"><img src="https://avatars3.githubusercontent.com/u/54744863?s=400&v=4" height="50px" width="50px" alt=""/></a>
-<a href="https://pralaysarkar.tk/"><img src="https://pralaysarkar.tk/assets/img/me.jpg" height="50px" width="50px" alt=""/></a>
 
 
 
