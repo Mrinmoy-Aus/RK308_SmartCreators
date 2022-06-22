@@ -1,6 +1,6 @@
 requests==2.18.4
 keyboard==0.13.5
-numpy==1.19.1
+numpy==1.22.0
 sk_video==1.1.10
 PyAutoGUI==0.9.50
 seaborn==0.10.1
