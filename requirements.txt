@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.31.0
 keyboard==0.13.5
 numpy==1.19.1
 sk_video==1.1.10
